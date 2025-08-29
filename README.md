@@ -1,6 +1,6 @@
 # PubMedSearchR
 
-**PubMedSearchR** is available as a [Shiny app](https://evs236.shinyapps.io/PubMedSearchR/). It performs reproducible [PubMed](https://pubmed.ncbi.nlm.nih.gov/) search and screening in R. It supports boolean queries and date/full-text filters, shows PubMed’s MeSH-based “query translation”, enriches results with [OpenAlex](https://openalex.org/) citations and open-access status, and exports to CSV/HTML. See also the [MeSH Browser](https://www.ncbi.nlm.nih.gov/mesh/).
+**PubMedSearchR** is available as a [Shiny app](https://evs236.shinyapps.io/PubMedSearchR/) and basic R script. It performs reproducible [PubMed](https://pubmed.ncbi.nlm.nih.gov/) search and screening in R. It supports boolean queries and date/full-text filters, shows PubMed’s MeSH-based “query translation”, enriches results with [OpenAlex](https://openalex.org/) citations and open-access status, and exports to CSV/HTML. See also the [MeSH Browser](https://www.ncbi.nlm.nih.gov/mesh/).
 
 **Background / motivation:**
 I built this to improve and modernise a script I used almost 10 years ago for reproducible literature search. The goal is simple: keep the workflow transparent, easy to re-run, and suitable for sharing with co-authors or students.
